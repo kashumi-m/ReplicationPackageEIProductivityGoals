@@ -5,7 +5,7 @@ and team goals while handling requirements changes"
 
 This repository contains,</br>
 
-Interview guide;</br>
+2 Interview guides;</br>
 2 Pre-interview questionnaires;</br>
 Survey questionnaire</br>
 
